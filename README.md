@@ -1,4 +1,4 @@
-# Text2Title: A T5-Based Headline Generator
+# Text-2-Title: A T5-Based Headline Generator
 <img src="./IMG/T5_API.png">
 
 ## Overview
