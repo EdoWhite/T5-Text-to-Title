@@ -1,4 +1,4 @@
-# T5 for Text Summarization & Title Generation
+# Text2Title: A T5-Based Headline Generator
 <img src="./IMG/T5_API.png">
 
 ## Overview
