@@ -5,7 +5,7 @@
 
 A running version of the model is [hosted on Huggingface](https://huggingface.co/EdBianchi/T5-finetuned-abstracts).
 
-Collection of Jupyter Notebooks focusing on the fine-tuning of T5 for text summarization and title generation. A version of the fine-tuned model is hosted on Huggingface and can be tested directly from the browser (hosted inference API). The fine-tuned model can be downloaded and used through the Huggingface API.
+Collection of Jupyter Notebooks focusing on the fine-tuning of T5 for text summarization and title generation. The idea is to generate a summary short enough to be a possible title. A version of the fine-tuned model is hosted on Huggingface and can be tested directly from the browser (hosted inference API). The fine-tuned model can be downloaded and used through the Huggingface API.
 
 ## Model Card
 
